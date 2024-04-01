@@ -1,9 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
-# Actuarial Theory and Practice A @ UNSW
+# 2024 SOA Research Challenge - Developing a Health Incentive Program for SuperLife
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
+
+### Team: Luminous Lake Lifeguards
+### Team Members: Christopher Hanzek, Bilal Ibrahim, Tahir Khawaja, Alessandro La Mela, and Vaasav Mehta.
+
 
 ### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
 
