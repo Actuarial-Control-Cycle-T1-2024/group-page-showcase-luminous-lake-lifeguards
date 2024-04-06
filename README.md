@@ -460,7 +460,9 @@ For SPWL policies, the required reserve rate increases to 950 at higher ages, as
 
 The following describes the methodology for determining profit:
 1. The interest earned per year is first projected per policyholder.
-$$Interest = Investment \ Rate \times (Decremented \ Reserve \ and \ Capital + Decremented \ Premium - Decremented \ Commission)$$
+    ```math
+    Interest = Investment \ Rate \times (Decremented \ Reserve \ and \ Capital + Decremented \ Premium - Decremented \ Commission)
+    ```
 ‘Decremented’ in the above equation refers to values that have been multiplied by the exposure value for that particular projection year.
 2. Profit for a particular projection year is calculated as:
 $$Profit = Dec.Premium - Dec.Commission - Dec.Expenses - Dec.Expected \ Claims + Reserve \ Increase + Interest$$
