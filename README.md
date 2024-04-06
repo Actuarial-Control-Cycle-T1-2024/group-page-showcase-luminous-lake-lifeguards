@@ -9,11 +9,51 @@
 
 ## Report Contents
 
+- [Executive Summary](#introduction)
+  - [Purpose](#introduction_purpose)
+  - [Summary of Key Findings](#introduction_summary)
+- [Objectives of Proposed Incentive Program](#objectives)
+  - [Key Metrics & Features of Program to Measure Success](#objectives_key_metrics_and_features)
+- [Program Design](#program_design)
+  - [2.1 Smoking Cessation Program](#program_design_smoking_program)
+  - [2.2 Cancer Prevention Initiatives](#program_design_cancer_initiatives)
+  - [2.3 Health Check-Ups](#program_design_health_check-ups)
+- [Insurance Pricing and Program Costs](#program_design)
+  - [Mortality Adjustment Factors](#insurance_costs_mortality_afs)
+  - [Expense and Commission Structure](#insurance_costs_expense_and_commission_structure)
+  - [Other Margins](#insurance_costs_other_margins)
+  - [Mortality Savings](#insurance_costs_mortality_savings)
+  - [Economic Value](#insurance_costs_economic_value)
+  - [Pricing Changes](#insurance_costs_pricing_changes)
+- [Assumptions](#assumptions)
+- [Risk and Risk Mitigation](#risk)
+  - [Sensitivity Analysis](#risk_sensitivity)
+  - [Degree of Certainty](#risk_degree_of_certainty)
+- [Data and Data Limitations](#data)
+- [Final Summary & Key Takeaways](#final_summary)
+- [References](#references)
+- [Appendix](#appendix)
+  - [1. Appendix for Program Design Section](#appendix_1)
+    - [1.1 Further Incentives](#appendix_1.1)
+    - [1.2 Distribution of Smokers & Non-Smokers](#appendix_1.2)
+    - [1.3 Distribution of Comorbidities](#appendix_1.3)
+  - [2. Appendix for Pricing/Costs Section](#appendix_2)
+    - [2.1 Premium Component](#appendix_2.1)
+    - [2.2 Assumptions Setting](#appendix_2.2)
+    - [2.3 Methodology for Expected Claims](#appendix_2.3)
+    - [2.4 Methodology for Reserves and Claims](#appendix_2.4)
+    - [2.5 Methodology for Profit](#appendix_2.5)
+  - [3. Appendix for Assumption Section](#appendix_3)
+    - [3.1 Full Assumptions Table](#appendix_3.1)
+  - [4. Appendix for Risk and Mitigation Considerations](#appendix_4)
+    - [4.1 Additional Important Risk Considerations](#appendix_4.1)
+    - [4.2 Overall Risk Grade for Important Risk Considerations](#appendix_4.2)
+      
 ---
 
-## Executive Summary
+## Executive Summary <a name="introduction"></a>
 
-### Purpose
+### Purpose <a name="introduction_purpose"></a>
 
 The purpose of this report is to provide the relevant analysis to support the Chief Marketing Officer and Appointed Actuary of SuperLife in providing retail and actuarial advice to the business in relation to the proposed health incentive programs that will act as an extension to the two main life products offered to clients. These products are:
 - 20-year level term life insurance (T20)
@@ -21,13 +61,13 @@ The purpose of this report is to provide the relevant analysis to support the Ch
 
 According to the Actuarial Advice Framework (CPS 320), the proposed structural changes will affect existing business and will require more than Č100m of capital. Therefore, SuperLife’s Appointed Actuary is required to provide actuarial advice and advise on the implementation of such extensions to the board of directors.
 
-### Summary of Key Findings
+### Summary of Key Findings <a name="introduction_summary"></a>
 
 Through the modelling approach, Luminous Lake Lifeguards found that SuperLife would have saved Č5.7B if the proposed incentive program was implemented 20 years ago. The T20 in-force portfolio in particular yielded an internal rate of return (IRR) of 29.8%, which was a 2.5% increase. Overall, the appraisal value of both product portfolios grew by Č4.2 billion, reinforcing the strong recommendation for implementing this proposed program.
 
 ---
 
-## Objectives of Proposed Incentive Program
+## Objectives of Proposed Incentive Program <a name="objectives"></a>
 
 The proposed health incentive programs have been designed to achieve key business objectives:
 1. Enhance health outcomes by incentivizing healthy behaviours through participation in the
@@ -38,7 +78,7 @@ and increasing overall industry market share, measured by an increase in premium
 3. Drive economic value for SuperLife by reducing claim payouts and increasing premiums
 collected, measured by uplifts to SuperLife’s Internal Rate of Return (IRR), embedded value and appraisal value.
 
-### Key Metrics & Features of Program to Measure Success
+### Key Metrics & Features of Program to Measure Success <a name="objectives_key_metrics_and_features"></a>
 
 The proposed health incentive programs have been tailored with key features aimed at reducing mortality amongst policyholders, whilst encouraging participation:
 1. Smoking cessation programs: Recognizing the health risks associated with smoking, this initiative is proposed to reduce mortality by an average of 25%.
@@ -47,9 +87,9 @@ The proposed health incentive programs have been tailored with key features aime
 
 ---
 
-## Program Design
+## Program Design <a name="program_design"></a>
 
-### 2.1 Smoking Cessation Program
+### 2.1 Smoking Cessation Program <a name="program_design_smoking_program"></a>
 
 Research identifies smoking as a leading cause of preventable deaths contributing to cancer, heart, and respiratory diseases (Burns, 2013; Graham, 2013; Hersi et al., 2019). This is echoed by SuperLife’s data, showing that whilst smokers only comprise 4.5% of the in-force policyholders, they have accounted for 35% of deaths in the last two decades. (See appendix 1.2 & 1.3 which highlight these figures). It is also important to consider what SuperLife’s competitors are achieving worldwide. Examples of this include:
 - United healthcare America ‘Quit for Life’ program: A program that has helped 5.9 million smokers quit successfully (United Healthcare, 2024), providing nicotine replacement options and constant support.
@@ -69,7 +109,7 @@ SuperLife can employ several areas for which policyholders will be able to choos
 
 SuperLife will monitor short-term engagement and reward early progress in the first 1-3 years. In the long-term, as health benefits attributed to smoking cessation become more prevalent, SuperLife should evaluate the realised profits after 10 years and gauge program success.
 
-### 2.2 Cancer Prevention Initiatives
+### 2.2 Cancer Prevention Initiatives <a name="program_design_cancer_initiatives"></a>
 
 The second tier in SuperLife’s proposed health incentive program involves offering cancer prevention initiatives. The main aim of this is to reduce mortality associated neoplasms, the current leading killer in SuperLife’s dataset accounting for 32.8% of deaths (see appendix 1.3). Recent research suggests that detecting cancers early (a stage before metastasis) can substantially increase treatment success rates (Crosby et al., 2022, Schiffman et al., 2015), thus justifying the focus on the cancer prevention scheme. As with smoking cessation, there are initiatives already in place globally by SuperLife’s competitors to improve mortality of policyholders with neoplasms. These include:
 - Colonial Life: Offers a cancer insurance program designed to reduce costs associated with check-ups, screenings, and treatment (Colonial Life, 2024).
@@ -93,7 +133,7 @@ for various health-related products.
 
 In the short-term, SuperLife can evaluate the participation of its policyholders on the program by comparing ratios of individuals who participated in screening and vaccination before the implementation of the program and after (within the first 5 years). In the long-term, SuperLife can reassess mortality after 10 years since the effectiveness of the program can only be determined with adequate time for it to take full effect and for mortality changes to be realised.
 
-### 2.3 Health Check-Ups
+### 2.3 Health Check-Ups <a name="program_design_health_check-ups"></a>
 
 SuperLife’s third focus relates to general health check-ups, vital for early disease detection and mortality reduction. (Wu et al., 2015). Wu et al. (2015) identifies that the likely cause of mortality might be due to subsequent referrals after health check-ups. Within SuperLife, circulatory system, respiratory system and digestive system diseases make up a combined 40.5% of deaths and can be mitigated through regular health check-ups. The proposed health check-ups will occur once every four years to maximise the impact to policyholders, as the Č175-Č870 costs per check-up is relatively expensive. Currently, SuperLife’s global competitors Medibank, Australian Unity and United Healthcare offer their policyholders with the following programs:
 - Doctor health checks: Offer policyholders Č150 per person, per calendar year on recognized health checks performed by doctors in private practice, where Medicare doesn’t cover (Australian Unity, 2024).
@@ -124,23 +164,23 @@ In the short term, SuperLife can track policyholder compliance by assessing year
 
 ---
 
-## Insurance Pricing and Program Costs
+## Insurance Pricing and Program Costs <a name="insurance_costs"></a>
 
 To effectively implement the three-tiered program, a pricing model needs to be devised to feed through provided client data to quantify the impacts of the program. This begins with first determining premiums at a customer level by leveraging a bottom-up pricing strategy to accurately calculate premiums while catering for all costs associated with providing life products.
 
-### Mortality Adjustment Factors
+### Mortality Adjustment Factors <a name="insurance_costs_mortality_afs"></a>
 
 To accurately measure expected payouts, the Lumarian mortality rate table was used as a starting position. Investigations into different demographic groups, however, revealed disparities in mortalities between the genders as well as their smoking status. Contrary to the uniform mortality rate table provided at the population level, it was seen that smokers were experiencing higher mortality rates compared to non-smokers, and males were facing higher mortality rates relative to females. To accurately reflect these variations and ensure fair and precise pricing, adjustment factors were determined by comparing the proportion of individuals alive to those deceased within each demographic subgroup and trued up mortality rates. Refer to appendix 2.2.1 for further details. Furthermore, a flat adjustment of 23% was applied to the expected claims for all customers flagged as moderate or high-risk during underwriting to reflect true mortalities (A 2.2.8).
 
-### Expense and Commission Structure
+### Expense and Commission Structure <a name="insurance_costs_expense_and_commission_structure"></a>
 
 All policyholders incur two forms of expenses, an acquisition cost and a renewal cost. The acquisition cost covers expenditures pertaining to marketing, underwriting and any other miscellaneous charges incurred in acquiring customers. The total cost is amortized across the entire book at a product level, resulting in a constant factor for all customers. A renewal cost is also incurred at a customer and product level which covers ongoing costs to maintain customers (A 2.2.4). Given SuperLife operates in an advised market, a two-stage commission structure is implemented to incentivize advisors and telemarketers to maximize customer flow to SuperLife, where reasonable. Distribution channel owners are paid an initial commission, a large percentage of first year premium, and a renewal commission (A 2.2.6 – 2.2.7) a smaller percentage of premium thereafter. A commission claw back structure is also implemented, whereby 100% of commissions are refunded to SuperLife if the customer lapses within the first year, 50% refunded if the customer lapses in the second year and 0% thereafter. This is to incentivize advisors to not churn customer policies to receive regular large initial commissions, and to only sell policies to customers interested in retaining their policy over the longer run. Refer to appendix 2.2.5 for further details regarding the commission claw back structure.
 
-### Other Margins
+### Other Margins <a name="insurance_costs_other_margins"></a>
 
 Given the varying degrees of risk associated with providing life insurance products to individuals of differing degrees of risks, varied profit margins determined by the underwriting class are further added onto the premium. These are split by product type, with T20 policies carrying a greater profit margin relative to SPWL, as T20 policies carry greater innate risk and therefore must be expected to have a greater profit margin. These margins ensure SuperLife’s two insurance products remain profitable during fluctuating market conditions.
 
-### Mortality Savings
+### Mortality Savings <a name="insurance_costs_mortality_savings"></a>
 
 Had the proposed program been implemented over the past 20 years, SuperLife could have expected to realize a total of Č5.7 billion in saved claim payouts, with the majority of savings coming from SPWL policies. The mortality savings are primarily driven by the increased survival probability due to the healthy behaviors promoted by the implemented program, showcasing how SuperLife is able to meet two key health objectives through the introduction of the program.
 
@@ -154,7 +194,7 @@ The implementation of the three targeted programs – smoking cessation, cancer 
 
 *Table 1: Mortality savings experienced by the two policy types if program was implemented 20 years ago*
 
-### Economic Value
+### Economic Value <a name="insurance_costs_economic_value"></a>
 
 The proposed program was able to add economic value to SuperLife through an increase in embedded value and appraisal value. Embedded value is defined as the value in-force (VIF) plus adjusted net worth. The appraisal value is defined as the embedded value plus value of new business (VNB) and can be used as a proxy for the holistic value of an insurance company. VIF and VNB are defined as the present value of profits generated by the firm from in-force and new business policies respectively. The T20 product saw an IRR increase of 2.5% and an overall appraisal value increase of Č600 million and although the IRR for SPWL was unable to be determined, the overall appraisal value increased by Č3.6 billion, showcasing a clear increase in SuperLife’s economic value after the implementation of the program.
 
@@ -169,7 +209,7 @@ The proposed program was able to add economic value to SuperLife through an incr
 
 Given that competitiveness and profitability are conflicting business objectives, management needs to consider which objective to prioritize in the short term. Provided that the firm’s real IRR has increased, the year-on-year return to shareholders has also been projected to increase. If SuperLife wishes to maintain this position, management will be unable to further increase competitiveness through pricing reductions as this will compromise the current after program IRR. However, in order to ensure commercial viability over the longer run, SuperLife would now have the ability to use pricing as a strategic lever to reduce customer premiums, increasing the marketability of their products and therefore boost sales over the longer term. Although reducing profitability in the shorter term, by increasing volume of policies, SuperLife would be able to reduce unit acquisition expense given a larger customer base to amortize expenses across, maximizing the appraisal value over the longer run, as seen in sensitivities 14 and 15, reductions in acquisition expenses by 25% and 50% increase firm appraisal value by a further Č1.4 and Č2.6 billion respectively.
 
-### Pricing Changes
+### Pricing Changes <a name="insurance_costs_pricing_changes"></a>
 
 Given the increased economic value metrics, SuperLife may be able to optimize sales by reducing premiums for both product types. SuperLife would be able to leverage the increased profit to offset any premium reductions to maintain the starting appraisal value of the firm, while targeting lower and therefore more competitive ranks relative to their key competitors. This would boost marketability since advisors would be more inclined to recommend SuperLife products as offerings would be better value for money for customers, and hence increase customer volume. This would reduce unit acquisition costs and thereby boost economic value of the firm over the longer run.
 
@@ -177,7 +217,7 @@ SuperLife can also implement a profit-sharing approach, whereby a quarter of the
 
 ---
 
-## Assumptions
+## Assumptions <a name="assumptions"></a>
 
 In constructing the actuarial models for SuperLife’s incentive program rollout, crucial assumptions were made. These are vital to guide our decision making and simplifying calculations that would otherwise be unfeasible. The following assumptions are considered to be the most influential on the projections and strategic direction of the programs:
 - Interest rates
@@ -201,7 +241,7 @@ When determining the factors impacting the costs of the proposed program, two ke
 
 ---
 
-## Risk and Risk Mitigation
+## Risk and Risk Mitigation <a name="risk"></a>
 
 Upon assessing several potential risks that may be faced during the implementation of the program, the four most likely and severe risks are detailed below, alongside possible risk mitigation techniques. The rest are detailed in Appendix 4.1.
 
@@ -217,7 +257,7 @@ Upon assessing several potential risks that may be faced during the implementati
 
 ---
 
-## Sensitivity Analysis
+## Sensitivity Analysis <a name="risk_sensitivity"></a>
 
 <img width="1804" alt="Screen Shot 2024-04-06 at 10 39 40 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/95605c35-6344-4e2d-83de-f60f077dad35">
 
@@ -228,25 +268,25 @@ Upon assessing several potential risks that may be faced during the implementati
 
 The variables which resulted in the largest fluctuations in key financial metrics were sensitivities on the interest rate, asset earning rate and acquisition expense ratio. Given acquisition expense ratio can be controlled by increasing sales volume, the variables which need to therefore be modelled more conservatively are the interest and asset earning rates.
 
-### Degree of Certainty
+### Degree of Certainty <a name="risk_degree_of_certainty"></a>
 
 The extent to which the proposed programs will reduce mortality rates is contingent on the uptake rates of the programs amongst policyholders. It can be concluded with near certainty that the proposed suite of programs will in fact lower mortality rates and contribute to some level of mortality savings for SuperLife. Given that new business growth, portfolio lapse rates, and portfolio mortality rates are variables that SuperLife has in its power to influence (at least partially) through its future program offerings, business strategy, and underwriting decisions, the main drivers of uncertainty in the company’s projection of future net benefits will be interest rates and asset earnings rates. These variables were assumed to be normally distributed, and 95% confidence intervals were constructed for the basis of the above sensitivity analyses. The new program offerings should lead to a net benefit for SuperLife, provided that interest rates and asset earning rate fluctuations do not lead the company’s post-program VIF to fall below the pre-program VIF of Č6.37b for T20 policies and Č67.99b for SPWL policies. For T20 policies, normal probability theory and linear extrapolation were used to demonstrate that a 0% interest rate leads to a post-program VIF of Č6.27b. However, for SPWL policies, it was calculated that if interest rates exceed 7.5%, which has a 2% probability of occurrence, then the post program VIF will fall below the pre-program VIF. These results indicate that with perfect certainty, the program offerings will deliver a net benefit for SuperLife on the basis of its T20 policies, irrespective of interest rate movements, whilst there is a 98% probability that SuperLife’s SPWL policies will deliver a net benefit given interest rate fluctuations. Moreover, when looking at asset earnings rates for T20 policies, it was calculated that an asset earnings rate of less than 4.3% would cause the VIF to fall below the pre-program VIF (with 22% probability of occurrence), and similarly for SPWL policies, an asset earnings rate of less than 5.9% would cause the VIF to fall below the pre-program VIF (with 41% probability of occurrence).
 
 ---
 
-## Data and Data Limitations
+## Data and Data Limitations <a name="data"></a>
 
 The in-force dataset does not provide the issue date of each policy, only the issue year. Similarly, only the year of death and year of lapse are provided. This made it impossible to determine the exact in-force duration of each policy, which for the purposes of calculating mortality savings, meant that it was assumed that both policy origination and claims settlement occur at the start of each calendar year. Additionally, mortality rates for the general population of Lumaria were only provided with respect to the base year 2010, and on a combined population basis. It would have been ideal having cohort mortality tables, rather than assuming mortality rates remain static over time. Moreover, given that sex and smoker status were found to be significant determinants of mortality, the expected profit modelling would have been made more accurate if separate mortality tables were provided for each combination of these two risk factors. Though a high-level adjustment factor approach was used to approximate these mortality tables based on the historically observed trends in the in-force dataset, this approach was limited by the lack of historical data available for these groups of policyholders, and by having to assume that SuperLife’s historical life insurance portfolio is perfectly indicative of mortality rates in the general Lumarian population. No data was also provided on SuperLife’s historical asset earning rate or investment mix. As a result, it was assumed that assets earn a fixed rate of return equivalent to the historical average 10-year spot rate, given that life insurers tend to hold most of their assets in long-term bonds (Koller 2011, p.19). Although the previously detailed sensitivity analysis demonstrated that varying this assumption could lead to a 10% swing in profitability, it provides assurance that the roll-out of the proposed programs will still deliver a net positive expected profit for SuperLife. However, this benefit could vary quite significantly in reality, due to incomplete information and such limitations with the provided data.
 
 ---
 
-## Final Summary & Key Takeaways
+## Final Summary & Key Takeaways <a name="final_summary"></a>
 
 Luminous Lake Lifeguards’ final recommendation to SuperLife’s strategic implementation of health programs is to proceed with the three advised health initiatives. It is made clear through quantitative and qualitative analysis that the programs result in reduced mortality, increased marketability and competitiveness of SuperLife’s offerings, and thereby boosting overall economic value.
 
 ---
 
-# References
+# References <a name="references"></a>
 
 1. Burns, D.M. 2003, 'Epidemiology of smoking-induced cardiovascular disease,' Progress in Cardiovascular Diseases, vol. 46, no. 1, pp. 11–29. https://doi.org/10.1016/s0033- 0620(03)00079-3.
 2. Crosby, D. et al., 2022, ‘Early detection of cancer’, Science, vol. 375, no. 6586, pp.1-11. https://www.science.org/doi/full/10.1126/science.aay9040.
@@ -271,36 +311,36 @@ participants of periodic health check-ups: An observational study and propensity
 
 ---
 
-# Appendix
+# Appendix <a name="appendix"></a>
 
-## 1. Appendix for Program Design Section
+## 1. Appendix for Program Design Section <a name="appendix_1"></a>
 
-### 1.1. Further Incentives
+### 1.1. Further Incentives <a name="appendix_1.1"></a>
 
 - Age distribution: With 46% of population being between ages 25-54, workplace wellness initiatives e.g., additional paid time off/health savings account contribution.
 - Wide range of earned income: could utilize a sliding scale depending on income class. E.g., lower income has cash bonus/premium reduction incentives, higher income earners have tax deductions or contributions to a retirement fund.
 - With cancer prevention initiatives in the form of billboards, vaccinations, and advertisements, could utilize areas of high foot traffic e.g., areas surrounding Luminous Lake or even at major sporting events during halftime shows.
 - Table 1 – Proportion of Smokers & Non-Smokers in Policyholder Experience & Deaths Attributed to Smokers & Non-Smokers in Policyholder Experience.
 
-### 1.2. Distribution of Smokers & Non-Smokers
+### 1.2. Distribution of Smokers & Non-Smokers <a name="appendix_1.2"></a>
 
 <img width="550" alt="Screen Shot 2024-04-06 at 10 52 37 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/848ec42a-52f0-4e2a-9747-27b48db90915">
 
 *1: Smokers and Non-Smokers Distributions*
 
-### 1.3. Distribution of Comorbidities
+### 1.3. Distribution of Comorbidities <a name="appendix_1.3"></a>
 
 <img width="800" alt="Screen Shot 2024-04-06 at 10 55 01 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/e4f793b9-d603-4e77-8297-f5e2a21d4c3e">
 
 *2: Proportion of Top 4 Comorbidities*
 
-## 2. Appendix for Pricing/Costs Section
+## 2. Appendix for Pricing/Costs Section <a name="appendix_2"></a>
 
-### 2.1. Premium Component
+### 2.1. Premium Component <a name="appendix_2.1"></a>
 
 <img width="800" alt="Screen Shot 2024-04-06 at 10 57 34 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/c0e6eea0-ee91-4139-93e6-2b92042b8588">
 
-### 2.2. Assumptions Setting
+### 2.2. Assumptions Setting <a name="appendix_2.2"></a>
 
 <img width="1115" alt="Screen Shot 2024-04-06 at 10 59 10 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/d37d40d9-b3fc-46ed-8c52-58751b6aea5d">
 
@@ -338,7 +378,7 @@ participants of periodic health check-ups: An observational study and propensity
 
 *9: Profit Margins*
 
-### 2.3. Methodology for Expected Claims
+### 2.3. Methodology for Expected Claims <a name="appendix_2.3"></a>
 
 #### Methodology
 
@@ -358,7 +398,7 @@ $$Expected \ Deaths_x = Exposure_{x-1} \times Mortality \ Rate$$
 - The 1-year spot rate was used as the yield curve when discounting cashflows over the past 20 years. This gave a conservative estimate as to the risk-free rate.
 - For years where the risk-free rate was not present, a 4% rate assumption was implemented. This was determined by averaging the 1-year spot rate for Lumaria over a suitable time- horizon in the past.
 
-### 2.4. Methodology for Reserves and Capital
+### 2.4. Methodology for Reserves and Capital <a name="appendix_2.4"></a>
 
 #### Methodology
 
@@ -390,7 +430,7 @@ For SPWL policies, the required reserve rate increases to 950 at higher ages, as
 
 *10: Starting reserve rates per 1000 sum insured for SPWL policy holders*
 
-### 2.5. Methodology for Profit
+### 2.5. Methodology for Profit <a name="appendix_2.5"></a>
 
 #### Methodology
 
@@ -410,9 +450,9 @@ time 0.
 - The 1-year spot rate was used as the yield curve when discounting cashflows over the past 20 years. This gave a conservative estimate as to the risk-free rate.
 - For years where the risk-free rate was not present, a 4% rate assumption was implemented. This was determined by averaging the 1-year spot rate for Lumaria over a suitable time-horizon in the past.
 
-## 3. Appendix for Assumption Section
+## 3. Appendix for Assumption Section <a name="appendix_3"></a>
 
-### 3.1 Full Assumptions Table
+### 3.1 Full Assumptions Table <a name="appendix_3.1"></a>
 
 | Assumption | Detail | Justification |
 | --- | --- | --- |
@@ -433,9 +473,9 @@ time 0.
 | Differing reserve rates | Reserve rates for T20 and SPWL policies varied, with T20 rates decreasing over the term and SPWL rates varying by gender and smoker status. | Decreasing reserve rates for T20 reflect decreasing risk over the policy term. |
 | Assuming Lapse rate changes after implementation of program | Assumption that after program implementation and take-up by participants, lapse rate will reduce by 5% | After the implementation of the programs with progressive monetary benefits, it would follow that program participants would be incentivised to stay on the program. |
 
-## 4. Appendix for Risk and Mitigation Considerations
+## 4. Appendix for Risk and Mitigation Considerations <a name="appendix_4"></a>
 
-### 4.1. Additional Important Risk Considerations
+### 4.1. Additional Important Risk Considerations <a name="appendix_4.1"></a>
 
 | &nbsp;**Risk Category** | **Risk Subcategory** | **Risk** |
 | --- | --- | --- |
@@ -449,7 +489,7 @@ time 0.
 | **Operational** | Fraud Risk | Policyholders might provide false information about their participation in some of the programs, to receive the benefits offered, without taking part in them. This would lead to lower than anticipated mortality reductions. |
 | **Strategic** | Product Design Risk | The risk that policyholders will not want to participate in the new programs, due to additional product complexity, or skepticism surrounding the terms and conditions of the programs’ benefit offerings. |
 
-### 4.2 Overall Risk Grade for Important Risk Considerations
+### 4.2 Overall Risk Grade for Important Risk Considerations <a name="appendix_4.2"></a>
 
 | &nbsp;**Risk**                                  | **Likelihood (1-5)** | **Severity (1-5)** | **Score (Likelihood x Severity)** | **Overall Risk Grade** |
 |:-----------------------------------------------:|:--------------------:|:------------------:|:---------------------------------:|:----------------------:|
