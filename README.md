@@ -81,9 +81,9 @@ collected, measured by uplifts to SuperLife’s Internal Rate of Return (IRR), e
 ### Key Metrics & Features of Program to Measure Success <a name="objectives_key_metrics_and_features"></a>
 
 The proposed health incentive programs have been tailored with key features aimed at reducing mortality amongst policyholders, whilst encouraging participation:
-1. Smoking cessation programs: Recognizing the health risks associated with smoking, this initiative is proposed to reduce mortality by an average of 25%.
-2. Cancer prevention initiatives: With an approximate 7.5% mortality reduction, this will involve widespread awareness and vaccination campaigns.
-3. Health check-ups: By subsidising health check-ups for program participants, the program aims to facilitate early detection of potential health issues and thereby reduce mortality by on average 7.5%.
+1. **Smoking cessation programs:** Recognizing the health risks associated with smoking, this initiative is proposed to reduce mortality by an average of 25%.
+2. **Cancer prevention initiatives:** With an approximate 7.5% mortality reduction, this will involve widespread awareness and vaccination campaigns.
+3. **Health check-ups:** By subsidising health check-ups for program participants, the program aims to facilitate early detection of potential health issues and thereby reduce mortality by on average 7.5%.
 
 ---
 
@@ -92,18 +92,18 @@ The proposed health incentive programs have been tailored with key features aime
 ### 2.1 Smoking Cessation Program <a name="program_design_smoking_program"></a>
 
 Research identifies smoking as a leading cause of preventable deaths contributing to cancer, heart, and respiratory diseases (Burns, 2013; Graham, 2013; Hersi et al., 2019). This is echoed by SuperLife’s data, showing that whilst smokers only comprise 4.5% of the in-force policyholders, they have accounted for 35% of deaths in the last two decades. (See appendix 1.2 & 1.3 which highlight these figures). It is also important to consider what SuperLife’s competitors are achieving worldwide. Examples of this include:
-- United healthcare America ‘Quit for Life’ program: A program that has helped 5.9 million smokers quit successfully (United Healthcare, 2024), providing nicotine replacement options and constant support.
-- John Hancock ‘Vitality Program’ or ‘Vitality PLUS Program’ (Hancock, 2024): A program that offers a 15% or 25% premium reduction for participation by enabling access to early cancer screening.
+- **United healthcare America ‘Quit for Life’ program:** A program that has helped 5.9 million smokers quit successfully (United Healthcare, 2024), providing nicotine replacement options and constant support.
+- **John Hancock ‘Vitality Program’ or ‘Vitality PLUS Program’ (Hancock, 2024):** A program that offers a 15% or 25% premium reduction for participation by enabling access to early cancer screening.
 
 #### Incentives Contributing to a Decreased Mortality and Increased Participation
 
 SuperLife can employ several areas for which policyholders will be able to choose how they want to quit smoking. Some that will be included in the smoking cessation program for SuperLife include:
-- Nicotine replacement therapy (NRT): SuperLife can subsidize nicotine replacement therapies, including gums, patches, and medications to facilitate affordable access and support.
-- Mentorship/counselling/support groups: Offering a support network to aid quitting by offering empathy, accountability, and encouragement throughout the cessation program.
+- **Nicotine replacement therapy (NRT):** SuperLife can subsidize nicotine replacement therapies, including gums, patches, and medications to facilitate affordable access and support.
+- **Mentorship/counselling/support groups:** Offering a support network to aid quitting by offering empathy, accountability, and encouragement throughout the cessation program.
 
 #### Encouraging Participation
 
-- Cash rewards and bonuses for quantifiable health improvements for milestones being met: Policyholders can earn cash from a tiered profit-sharing system; 12.5% reduction for one smoke-free year, 15% for 2-4 years and 22.5% for 5 years or more, which can also be used towards discounting premiums.
+- **Cash rewards and bonuses for quantifiable health improvements for milestones being met:** Policyholders can earn cash from a tiered profit-sharing system; 12.5% reduction for one smoke-free year, 15% for 2-4 years and 22.5% for 5 years or more, which can also be used towards discounting premiums.
 
 #### Pricing Evaluation & Timeframes
 
@@ -112,22 +112,22 @@ SuperLife will monitor short-term engagement and reward early progress in the fi
 ### 2.2 Cancer Prevention Initiatives <a name="program_design_cancer_initiatives"></a>
 
 The second tier in SuperLife’s proposed health incentive program involves offering cancer prevention initiatives. The main aim of this is to reduce mortality associated neoplasms, the current leading killer in SuperLife’s dataset accounting for 32.8% of deaths (see appendix 1.3). Recent research suggests that detecting cancers early (a stage before metastasis) can substantially increase treatment success rates (Crosby et al., 2022, Schiffman et al., 2015), thus justifying the focus on the cancer prevention scheme. As with smoking cessation, there are initiatives already in place globally by SuperLife’s competitors to improve mortality of policyholders with neoplasms. These include:
-- Colonial Life: Offers a cancer insurance program designed to reduce costs associated with check-ups, screenings, and treatment (Colonial Life, 2024).
+- **Colonial Life:** Offers a cancer insurance program designed to reduce costs associated with check-ups, screenings, and treatment (Colonial Life, 2024).
 
 #### Incentives Contributing to a Decreased Mortality and Increased Participation
 
 SuperLife’s cancer initiatives aim to reduce mortality and to create economic value when coupled with the low implementation cost of Č20-Č85 per initiative. The program includes:
-- Regular screenings: Subsidized screenings for early detection
-- Vaccination programs: HPV vaccinations to prevent related cancers
-- Genetic counselling: Specifically testing those with a familial risk
+- **Regular screenings:** Subsidized screenings for early detection
+- **Vaccination programs:** HPV vaccinations to prevent related cancers
+- **Genetic counselling:** Specifically testing those with a familial risk
 
 #### Encouraging Participation
 
-- Fully subsidizing costs associated with cancer screenings for all types of cancers to ease out-
+- Fully **subsidizing costs** associated with cancer screenings for all types of cancers to ease out-
 of-pocket costs for policyholders.
-- Offering vaccination vouchers for individuals who take part, which can result in discounts
+- Offering **vaccination vouchers** for individuals who take part, which can result in discounts
 for various health-related products.
-- Profit redistribution via discounted premiums or cash bonuses.
+- Profit redistribution via **discounted premiums** or **cash bonuses**.
 
 #### Pricing Evaluation & Timeframes
 
@@ -136,26 +136,26 @@ In the short-term, SuperLife can evaluate the participation of its policyholders
 ### 2.3 Health Check-Ups <a name="program_design_health_check-ups"></a>
 
 SuperLife’s third focus relates to general health check-ups, vital for early disease detection and mortality reduction. (Wu et al., 2015). Wu et al. (2015) identifies that the likely cause of mortality might be due to subsequent referrals after health check-ups. Within SuperLife, circulatory system, respiratory system and digestive system diseases make up a combined 40.5% of deaths and can be mitigated through regular health check-ups. The proposed health check-ups will occur once every four years to maximise the impact to policyholders, as the Č175-Č870 costs per check-up is relatively expensive. Currently, SuperLife’s global competitors Medibank, Australian Unity and United Healthcare offer their policyholders with the following programs:
-- Doctor health checks: Offer policyholders Č150 per person, per calendar year on recognized health checks performed by doctors in private practice, where Medicare doesn’t cover (Australian Unity, 2024).
-- Claims for health screenings: Offer policyholders the opportunity to claim any health screenings if their cover includes benefits for health screenings (Medibank, 2024).
-- Financial goals: Policyholders can earn financial goals for achieving specific health goals and health-related activities, using wearable devices to sync results; FIT (Frequency, Intensity and Tenacity) (United Healthcare, 2024).
+- **Doctor health checks:** Offer policyholders Č150 per person, per calendar year on recognized health checks performed by doctors in private practice, where Medicare doesn’t cover (Australian Unity, 2024).
+- **Claims for health screenings:** Offer policyholders the opportunity to claim any health screenings if their cover includes benefits for health screenings (Medibank, 2024).
+- **Financial goals:** Policyholders can earn financial goals for achieving specific health goals and health-related activities, using wearable devices to sync results; FIT (Frequency, Intensity and Tenacity) (United Healthcare, 2024).
 
 #### Incentives Contributing to a Decreased Mortality and Increased Participation
 
 SuperLife’s health check-ups aim to detect diseases early and reduce mortality, providing economic value by redistributing profits of the program back to policyholders. The following are program details within these health check-ups:
 - Subsidise health check-ups:
-  - Health savings accounts that can be used for each check-up attended and can be put
+  - **Health savings accounts** that can be used for each check-up attended and can be put
 towards future healthcare expenses.
-  - Loyalty program, where individuals who regularly attend health check-ups can earn
+  - **Loyalty program**, where individuals who regularly attend health check-ups can earn
 funds that can be used to reduce premiums or cashback.
-  - Partnerships with healthcare providers, which can offer subsidised health screenings
+  - **Partnerships with healthcare providers**, which can offer subsidised health screenings
 to policyholders. This can include incentives such as priority scheduling or additional
 services for those who participate in the health check-ups.
 
 #### Encouraging Participation
 
-- Cashback rewards and discounted premiums, where individuals earn monetary benefits by
-making annual efforts to check health regularly.
+- Cashback rewards and discounted premiums, **where individuals earn monetary benefits by
+making annual efforts to check health regularly.**
 - Again, a percentage of additional profits as a result of this program will be redistributed back to policyholders in the form of cashbacks or discounted premiums. These will be equally distributed amongst participating customers.
 
 #### Pricing Evaluation & Timeframes
@@ -288,26 +288,50 @@ Luminous Lake Lifeguards’ final recommendation to SuperLife’s strategic impl
 
 # References <a name="references"></a>
 
-1. Burns, D.M. 2003, 'Epidemiology of smoking-induced cardiovascular disease,' Progress in Cardiovascular Diseases, vol. 46, no. 1, pp. 11–29. https://doi.org/10.1016/s0033- 0620(03)00079-3.
-2. Crosby, D. et al., 2022, ‘Early detection of cancer’, Science, vol. 375, no. 6586, pp.1-11. https://www.science.org/doi/full/10.1126/science.aay9040.
-3. Cancer insurance coverage and policies | Colonial life. https://www.coloniallife.com/individuals/products/cancer-insurance.
-4. Contributor, G. (2023) Complete guide for life insurance agent commission structure. https://blog.getcompass.ai/life-insurance-agent-commission-structure/.
-5. Doctor Health Check Program | Australian Unity Health Insurance (2024). https://www.australianunity.com.au/health-insurance/programs/services/health-checks.
-6. Graham, C.T. 2013, 'The effect of smoking on the cardiovascular system.' British Journal of Cardiac Nursing, vol. 8, no. 4, pp. 174–179. https://doi.org/10.12968/bjca.2013.8.4.174.
-7. Hancock, J. The Truth about Life Insurance & Smoking | John Hancock.
-https://www.johnhancock.com/ideas-insights/life-insurance-and- smoking.html#:~:text=Generally%2C%20life%20insurance%20premiums%20are,you%20 make%20to%20live%20healthy.
-8. Hersi, M. et al., 2019, ‘Effectiveness of stop smoking interventions among adults: protocol for an overview of systematic reviews and an updated systematic review’, Systematic Reviews, vol. 8, no. 28, pp.1-21. 10.1186/s13643-018-0928-x.
-9. Iervasi, K. (2023) Life insurance agents and commissions: What you should know. https://www.nerdwallet.com/article/insurance/life-insurance-agent-commissions.
-10. Koller, M 2011, Life insurance Risk Management Essentials, Springer, Zurich.
-11. Quit For Life: smoking cessation program (2024). https://www.uhc.com/member-
-resources/health-care-programs/quit-for-life.
-12. Schiffman, J.D., Fisher, P.G. and Gibbs, P., 2015, 'Early detection of Cancer: past, present,
-and future,' American Society of Clinical Oncology Educational Book, vol. 35, no. 1, pp.
-57–65. https://doi.org/10.14694/edbook_am.2015.35.57.
-13. Wellness and rewards programs for members. https://www.uhc.com/member-
-resources/health-care-programs/wellness-and-rewards-programs.
-14. Wu, T.-Y. et al., 2015, 'Differences in mortality rates between frequent and occasional
-participants of periodic health check-ups: An observational study and propensity analysis,' European Geriatric Medicine, vol. 6, no. 4, pp. 297–302. https://doi.org/10.1016/j.eurger.2014.09.013.
+<ol>
+  <li>
+    Burns, D.M. 2003, 'Epidemiology of smoking-induced cardiovascular disease,' Progress in Cardiovascular Diseases, vol. 46, no. 1, pp. 11–29. <a href="https://doi.org/10.1016/s0033-0620(03)00079-3">https://doi.org/10.1016/s0033-0620(03)00079-3</a>.
+  </li>
+  <li>
+    Crosby, D. et al., 2022, ‘Early detection of cancer’, Science, vol. 375, no. 6586, pp.1-11. <a href="https://www.science.org/doi/full/10.1126/science.aay9040">https://www.science.org/doi/full/10.1126/science.aay9040</a>.
+  </li>
+  <li>
+    Cancer insurance coverage and policies | Colonial life. <a href="https://www.coloniallife.com/individuals/products/cancer-insurance">https://www.coloniallife.com/individuals/products/cancer-insurance</a>.
+  </li>
+  <li>
+    Contributor, G. (2023) Complete guide for life insurance agent commission structure. <a href="https://blog.getcompass.ai/life-insurance-agent-commission-structure/">https://blog.getcompass.ai/life-insurance-agent-commission-structure/</a>.
+  </li>
+  <li>
+    Doctor Health Check Program | Australian Unity Health Insurance (2024). <a href="https://www.australianunity.com.au/health-insurance/programs/services/health-checks">https://www.australianunity.com.au/health-insurance/programs/services/health-checks</a>.
+  </li>
+  <li>
+    Graham, C.T. 2013, 'The effect of smoking on the cardiovascular system.' British Journal of Cardiac Nursing, vol. 8, no. 4, pp. 174–179. <a href="https://doi.org/10.12968/bjca.2013.8.4.174">https://doi.org/10.12968/bjca.2013.8.4.174</a>.
+  </li>
+  <li>
+    Hancock, J. The Truth about Life Insurance & Smoking | John Hancock. <a href="https://www.johnhancock.com/ideas-insights/life-insurance-and-smoking.html#:~:text=Generally%2C%20life%20insurance%20premiums%20are,you%20make%20to%20live%20healthy">https://www.johnhancock.com/ideas-insights/life-insurance-and-smoking.html#:~:text=Generally%2C%20life%20insurance%20premiums%20are,you%20make%20to%20live%20healthy</a>.
+  </li>
+  <li>
+    Hersi, M. et al., 2019, ‘Effectiveness of stop smoking interventions among adults: protocol for an overview of systematic reviews and an updated systematic review’, Systematic Reviews, vol. 8, no. 28, pp.1-21. <a href="10.1186/s13643-018-0928-x">10.1186/s13643-018-0928-x</a>.
+  </li>
+  <li>
+    Iervasi, K. (2023) Life insurance agents and commissions: What you should know. <a href="https://www.nerdwallet.com/article/insurance/life-insurance-agent-commissions">https://www.nerdwallet.com/article/insurance/life-insurance-agent-commissions</a>.
+  </li>
+  <li>
+    Koller, M 2011, Life insurance Risk Management Essentials, Springer, Zurich.
+  </li>
+  <li>
+    Quit For Life: smoking cessation program (2024). <a href="https://www.uhc.com/member-resources/health-care-programs/quit-for-life">https://www.uhc.com/member-resources/health-care-programs/quit-for-life</a>.
+  </li>
+  <li>
+    Schiffman, J.D., Fisher, P.G. and Gibbs, P., 2015, 'Early detection of Cancer: past, present, and future,' American Society of Clinical Oncology Educational Book, vol. 35, no. 1, pp. 57–65. <a href="https://doi.org/10.14694/edbook_am.2015.35.57">https://doi.org/10.14694/edbook_am.2015.35.57</a>.
+  </li>
+  <li>
+    Wellness and rewards programs for members. <a href="https://www.uhc.com/member-resources/health-care-programs/wellness-and-rewards-programs">https://www.uhc.com/member-resources/health-care-programs/wellness-and-rewards-programs</a>.
+  </li>
+  <li>
+    Wu, T.-Y. et al., 2015, 'Differences in mortality rates between frequent and occasional participants of periodic health check-ups: An observational study and propensity analysis,' European Geriatric Medicine, vol. 6, no. 4, pp. 297–302. <a href="https://doi.org/10.1016/j.eurger.2014.09.013">https://doi.org/10.1016/j.eurger.2014.09.013</a>.
+  </li>
+</ol>
 
 ---
 
@@ -330,7 +354,7 @@ participants of periodic health check-ups: An observational study and propensity
 
 ### 1.3. Distribution of Comorbidities <a name="appendix_1.3"></a>
 
-<img width="800" alt="Screen Shot 2024-04-06 at 10 55 01 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/e4f793b9-d603-4e77-8297-f5e2a21d4c3e">
+<img width="775" alt="Screen Shot 2024-04-06 at 10 55 01 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/e4f793b9-d603-4e77-8297-f5e2a21d4c3e">
 
 *2: Proportion of Top 4 Comorbidities*
 
@@ -342,39 +366,39 @@ participants of periodic health check-ups: An observational study and propensity
 
 ### 2.2. Assumptions Setting <a name="appendix_2.2"></a>
 
-<img width="1115" alt="Screen Shot 2024-04-06 at 10 59 10 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/d37d40d9-b3fc-46ed-8c52-58751b6aea5d">
+<img width="750" alt="Screen Shot 2024-04-06 at 10 59 10 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/d37d40d9-b3fc-46ed-8c52-58751b6aea5d">
 
 *1: Lumaria Mortality Rate Table Adjustments for SuperLife Experience*
 
-<img width="887" alt="Screen Shot 2024-04-06 at 10 59 49 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/3e60a0a1-971c-4602-92bb-feb404129153">
+<img width="725" alt="Screen Shot 2024-04-06 at 10 59 49 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/3e60a0a1-971c-4602-92bb-feb404129153">
 
 *2: Lapse Tables as per SuperLife Experience*
 
-<img width="1043" alt="Screen Shot 2024-04-06 at 11 00 24 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/823ded69-5e7d-4a5e-9836-078d8ad2ccb4">
+<img width="775" alt="Screen Shot 2024-04-06 at 11 00 24 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/823ded69-5e7d-4a5e-9836-078d8ad2ccb4">
 
 *3: Program Costs*
 
-<img width="730" alt="Screen Shot 2024-04-06 at 11 00 52 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/c29d222d-152f-4c59-902f-f4862836a9fc">
+<img width="400" alt="Screen Shot 2024-04-06 at 11 00 52 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/c29d222d-152f-4c59-902f-f4862836a9fc">
 
 *4: Pricing Expense Assumptions*
 
-<img width="1022" alt="Screen Shot 2024-04-06 at 11 01 18 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/74a0d27d-83fd-462d-b9dc-009d67fc8083">
+<img width="625" alt="Screen Shot 2024-04-06 at 11 01 18 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/74a0d27d-83fd-462d-b9dc-009d67fc8083">
 
 *5: Commission Claw back Structure*
 
-<img width="968" alt="Screen Shot 2024-04-06 at 11 02 55 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/5e2e3376-c9e6-499e-9189-c88a3030ea81">
+<img width="550" alt="Screen Shot 2024-04-06 at 11 02 55 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/5e2e3376-c9e6-499e-9189-c88a3030ea81">
 
 *6: Initial Commissions Structure*
 
-<img width="968" alt="Screen Shot 2024-04-06 at 11 03 14 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/dec529cf-8085-4b4d-97fe-6eeae752e5c2">
+<img width="550" alt="Screen Shot 2024-04-06 at 11 03 14 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/dec529cf-8085-4b4d-97fe-6eeae752e5c2">
 
 *7: Renewal Commissions Structure*
 
-<img width="638" alt="Screen Shot 2024-04-06 at 11 03 35 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/79feca50-5ca1-4264-9c28-d295669cd8d0">
+<img width="350" alt="Screen Shot 2024-04-06 at 11 03 35 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/79feca50-5ca1-4264-9c28-d295669cd8d0">
 
 *8: Risk Margins*
 
-<img width="965" alt="Screen Shot 2024-04-06 at 11 03 56 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/52911d24-864d-4cde-8158-26318ba841f4">
+<img width="535" alt="Screen Shot 2024-04-06 at 11 03 56 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/52911d24-864d-4cde-8158-26318ba841f4">
 
 *9: Profit Margins*
 
@@ -426,7 +450,7 @@ down to time 0.
 per 1000 sum insured because of their increased probability of claiming.
 For SPWL policies, the required reserve rate increases to 950 at higher ages, as individuals alive at this age have a much higher probability of claiming. Hence appropriate reserves need to be held. The starting reserve rates are listed in the table below:
 
-<img width="1103" alt="Screen Shot 2024-04-06 at 12 13 51 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/cb79bd27-81a5-40a9-aae3-59a6b0f0e3a5">
+<img width="800" alt="Screen Shot 2024-04-06 at 12 13 51 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/cb79bd27-81a5-40a9-aae3-59a6b0f0e3a5">
 
 *10: Starting reserve rates per 1000 sum insured for SPWL policy holders*
 
