@@ -565,7 +565,7 @@ For SPWL policies, the required reserve rate increases to 950 at higher ages, as
 
 ---
 
-#### For further details, please refer to the [data](https://github.com/Christopher-Hanzek/ACTL4001-SOA-Challenge-2024/tree/main/Raw%20Data) and [code](https://github.com/Christopher-Hanzek/ACTL4001-SOA-Challenge-2024/tree/main/R%20Working%20Models/Scripts) used to generate the report.
+#### For further details, please refer to the [data](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/tree/main/Data%20%26%20Model%20Scripts/Data) and [code](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/tree/main/Data%20%26%20Model%20Scripts/Scripts) used to generate the report.
 
 
 ![Luminous Lake Lifeguards Gif](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/53c49b05-f326-413a-bcc3-45659959d62f)
