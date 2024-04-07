@@ -1,9 +1,12 @@
+![vector-illustration-of-people-with-a-life-insurance](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/938de17a-da12-414f-b6b7-74211806217d)
+
 # 2024 SOA Research Challenge - Developing a Health Incentive Program for SuperLife
 
 ---
 
 ### Team: Luminous Lake Lifeguards
 ### Team Members: Christopher Hanzek, Bilal Ibrahim, Tahir Khawaja, Alessandro La Mela, and Vaasav Mehta
+### Task Description: [Case Study.pdf](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/files/14896771/Case.Study.pdf)
 
 ---
 
