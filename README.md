@@ -411,13 +411,13 @@ The following describes the methodology for determining expected claims:
 <ol>
   <li>Exposure was projected for 20 years or till the year 120 for each policy in force, depending
 on the type of product they had. Exposure was calculated with the assumption that lapse and death occurred at the end of the period year. Note the lapse rate was only present for the T20 policy.
-
+&nbsp;
 <p align="center">
   <img width="500" alt="Screen Shot 2024-04-07 at 6 46 48 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/5f51061a-2e9c-4923-9ae0-fadf108ef0a7">
 </p></li>
   <li>Expected deaths were then calculated based on the exposure for that year. These expected
 deaths were calculated for each projected year on a policy level basis.
-
+&nbsp;
 <p align="center">
   <img width="410" alt="Screen Shot 2024-04-07 at 6 48 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/2a95d5f1-7800-4005-a794-b52dc3a52105">
   </p></li>
