@@ -409,16 +409,22 @@ Luminous Lake Lifeguards’ final recommendation to SuperLife’s strategic impl
 The following describes the methodology for determining expected claims:
 
 <ol>
-  <li>Exposure was projected for 20 years or till the year 120 for each policy in force, depending
+  <li>
+    Exposure was projected for 20 years or till the year 120 for each policy in force, depending
 on the type of product they had. Exposure was calculated with the assumption that lapse and death occurred at the end of the period year. Note the lapse rate was only present for the T20 policy.
-<p align="center">
-  <img style="margin-top: 10px;" width="500" alt="Screen Shot 2024-04-07 at 6 46 48 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/5f51061a-2e9c-4923-9ae0-fadf108ef0a7">
-</p></li>
-  <li>Expected deaths were then calculated based on the exposure for that year. These expected
+    <br>
+    <p align="center">
+      <img style="margin-top: 10px;" width="500" alt="Screen Shot 2024-04-07 at 6 46 48 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/5f51061a-2e9c-4923-9ae0-fadf108ef0a7">
+    </p>
+  </li>
+  <li>
+    Expected deaths were then calculated based on the exposure for that year. These expected
 deaths were calculated for each projected year on a policy level basis.
-<p align="center">
-  <img style="margin-top: 10px;" width="410" alt="Screen Shot 2024-04-07 at 6 48 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/2a95d5f1-7800-4005-a794-b52dc3a52105">
-  </p></li>
+    <br>
+    <p align="center">
+      <img style="margin-top: 10px;" width="410" alt="Screen Shot 2024-04-07 at 6 48 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/2a95d5f1-7800-4005-a794-b52dc3a52105">
+    </p>
+  </li>
   <li>Expected claims were then projected by multiplying the Sum Insured amount by the expected number of deaths.</li>
   <li>A yield curve was then used to discount the expected claims figure from every projected year down to time 0.</li>
   <li>This process was conducted for every policy in the in-force dataset.</li>
@@ -437,13 +443,13 @@ The following describes the methodology for determining reserves and capital:
 
 <ol>
   <li>
-    Exposure was projected for 20 years or till the year 120 for each policy in force, depending on the type of product they had. Exposure was calculated with the assumption that lapse and death occurred at the end of the period year. Note the lapse rate was only present for the T20 policy.
+    Exposure was projected for 20 years or till the year 120 for each policy in force, depending on the type of product they had. Exposure was calculated with the assumption that lapse and death occurred at the end of the period year. Note the lapse rate was only present for the T20 policy.<br>
     <p align="center">
       <img width="500" alt="Screen Shot 2024-04-07 at 6 50 30 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/07d40f2b-edc8-4559-bb68-b6cfd80b88c7">
     </p>
   </li>
   <li>
-    The reserve rate and capital rate is multiplied by the exposure to calculate the corresponding decremented value.
+    The reserve rate and capital rate is multiplied by the exposure to calculate the corresponding decremented value.<br>
     <p align="center">
       <img width="400" alt="Screen Shot 2024-04-07 at 6 51 42 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/d37de9e1-807e-4fd3-9e1e-d34a5734b767">
     </p>
@@ -475,14 +481,14 @@ For SPWL policies, the required reserve rate increases to 950 at higher ages, as
 
 <ol>
   <li>
-    The interest earned per year is first projected per policyholder.
+    The interest earned per year is first projected per policyholder.<br>
     <p align="center">
       <img width="525" alt="Screen Shot 2024-04-07 at 6 54 07 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/4300adb5-376c-422d-af77-f0aa29985e96">
     </p>
     ‘Decremented’ in the above equation refers to values that have been multiplied by the exposure value for that particular projection year.
   </li>
   <li>
-    Profit for a particular projection year is calculated as:
+    Profit for a particular projection year is calculated as:<br>
     <p align="center">
       <img width="490" alt="Screen Shot 2024-04-07 at 6 55 44 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/12639401-f8fa-41ee-9081-7911c895439d">
     </p>
