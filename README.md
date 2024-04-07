@@ -409,11 +409,19 @@ Luminous Lake Lifeguards’ final recommendation to SuperLife’s strategic impl
 The following describes the methodology for determining expected claims:
 1. Exposure was projected for 20 years or till the year 120 for each policy in force, depending
 on the type of product they had. Exposure was calculated with the assumption that lapse and death occurred at the end of the period year. Note the lapse rate was only present for the T20 policy.
-$$Exposure_x = Exposure_{x-1} \times (1 - Mortality \ Rate - Lapse \ Rate)$$
+
+<p align="center">
+  <img width="500" alt="Screen Shot 2024-04-07 at 6 46 48 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/5f51061a-2e9c-4923-9ae0-fadf108ef0a7">
+</p>
+
 2. Expected deaths were then calculated based on the exposure for that year. These expected
 deaths were calculated for each projected year on a policy level basis.
-$$Expected \ Deaths_x = Exposure_{x-1} \times Mortality \ Rate$$
-3. Expected claims were then projected by multiplying the Sum Insured amount by the expected number of deaths
+
+<p align="center">
+  <img width="410" alt="Screen Shot 2024-04-07 at 6 48 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/2a95d5f1-7800-4005-a794-b52dc3a52105">
+  </p>
+
+3. Expected claims were then projected by multiplying the Sum Insured amount by the expected number of deaths.
 4. A yield curve was then used to discount the expected claims figure from every projected year down to time 0.
 5. This process was conducted for every policy in the in-force dataset.
 
@@ -429,10 +437,19 @@ $$Expected \ Deaths_x = Exposure_{x-1} \times Mortality \ Rate$$
 The following describes the methodology for determining reserves and capital:
 1. Exposure was projected for 20 years or till the year 120 for each policy in force, depending on the type of product they had. Exposure was calculated with the assumption that lapse and death occurred at the end of the period year. Note the lapse rate was only present for the T20
 policy.
-$$Exposure_x = Exposure_{x-1} \times (1 - Mortality \ Rate - Lapse \ Rate)$$
+
+<p align="center">
+  <img width="500" alt="Screen Shot 2024-04-07 at 6 50 30 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/07d40f2b-edc8-4559-bb68-b6cfd80b88c7">
+  </p>
+
 2. The reserve rate and capital rate is multiplied by the exposure to calculate the corresponding decremented value.
-$$(Capital \ Rate + Reserve \ Rate) \times Exposure \times \frac{Sum \ Insured}{1000}$$
+
+<p align="center">
+  <img width="400" alt="Screen Shot 2024-04-07 at 6 51 42 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/d37de9e1-807e-4fd3-9e1e-d34a5734b767">
+  </p>
+
 The capital rate and reserve are per 1000 sum insured.
+
 3. Reserve Increase is then determined by the difference in decremented reserve value of the
 previous two years.
 4. A yield curve was then used to discount the decremented figures from every projected year
@@ -460,13 +477,21 @@ For SPWL policies, the required reserve rate increases to 950 at higher ages, as
 
 The following describes the methodology for determining profit:
 1. The interest earned per year is first projected per policyholder.
-    ```math
-    Interest = Investment \ Rate \times (Decremented \ Reserve \ and \ Capital + Decremented \ Premium - Decremented \ Commission)
-    ```
+
+<p align="center">
+  <img width="525" alt="Screen Shot 2024-04-07 at 6 54 07 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/4300adb5-376c-422d-af77-f0aa29985e96">
+  </p>
+  
 ‘Decremented’ in the above equation refers to values that have been multiplied by the exposure value for that particular projection year.
+
 2. Profit for a particular projection year is calculated as:
-$$Profit = Dec.Premium - Dec.Commission - Dec.Expenses - Dec.Expected \ Claims + Reserve \ Increase + Interest$$
+
+<p align="center">
+  <img width="490" alt="Screen Shot 2024-04-07 at 6 55 44 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-luminous-lake-lifeguards/assets/113610268/12639401-f8fa-41ee-9081-7911c895439d">
+  </p>
+  
 “Dec.” in the above equation represents decremented value.
+
 3. A yield curve was then used to discount the profit figure for every projected year down to
 time 0.
 4. This process was conducted for every policy in the in-force dataset.
